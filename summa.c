@@ -2,6 +2,7 @@
 // two numbers and adds them together
 
 /* yleiset kirjastot */
+//program to find sum
 #include <stdio.h> /* lukemista ja tulostusta varten */
 #include <ctype.h> /* tyypin tarkistamista varten */
 #include <stdlib.h> /* muuntaa merkin luvuksi */
